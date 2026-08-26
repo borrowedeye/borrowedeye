@@ -1,0 +1,8 @@
+<p align="center">
+$\color{#D4B7C4}{\textsf{wip !!}}$
+</p>
+
+<p align="center">
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yib2negevdsnokndla6hpplc2i&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=A5BDC9&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+</p>
