@@ -18,3 +18,7 @@ $\color{#D4B7C4}{\textsf{. ˖  ꒰𑁬}}$<img src="https://uploadkon.ir/uploads/
 <p align="center">
 $\color{#A5BDC9}{\textsf{!! wip !!}}$
 </p>
+
+<p align="center">
+<img src="https://uploadkon.ir/uploads/5a1527_26Untitled81-20260827201128.png" width="350">
+</p>
