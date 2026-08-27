@@ -4,7 +4,7 @@
 
 
 <p align="center">
-$\color{#D4B7C4}{\textsf{. ˖  ꒰𑁬}}$ <img src="https://uploadkon.ir/uploads/c9a727_26Untitled50-20260827175350.png" width="80"> $\color{#D4B7C4}{\textsf{໒꒱  ˖ .}}$
+$\color{#D4B7C4}{\textsf{. ˖  ꒰𑁬}}$<img src="https://uploadkon.ir/uploads/db4727_26Untitled50-20260827194802.png" width="80"> $\color{#D4B7C4}{\textsf{໒꒱  ˖ .}}$
 </p>
 
 <p align="center">
