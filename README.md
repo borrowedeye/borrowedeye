@@ -1,8 +1,10 @@
 <p align="center">
-$\color{#D4B7C4}{\textsf{. ˖  ꒰𑁬}}$ <img src="https://uploadkon.ir/uploads/c9a727_26Untitled50-20260827175350.png" width="80"> $\color{#D4B7C4}{\textsf{໒꒱  ˖ .}}$
+<img src="https://uploadkon.ir/uploads/417827_26Untitled81-20260827193929.png" width="350">
 </p>
+
+
 <p align="center">
-$\color{#A5BDC9}{\textsf{!! wip !!}}$
+$\color{#D4B7C4}{\textsf{. ˖  ꒰𑁬}}$ <img src="https://uploadkon.ir/uploads/c9a727_26Untitled50-20260827175350.png" width="80"> $\color{#D4B7C4}{\textsf{໒꒱  ˖ .}}$
 </p>
 
 <p align="center">
@@ -12,4 +14,7 @@ $\color{#A5BDC9}{\textsf{!! wip !!}}$
 
 <p align="center">
 <img src="https://uploadkon.ir/uploads/7de227_26Untitled50-20260827151527.png" width="250">
+</p>
+<p align="center">
+$\color{#A5BDC9}{\textsf{!! wip !!}}$
 </p>
