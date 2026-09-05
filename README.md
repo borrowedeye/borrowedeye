@@ -16,7 +16,8 @@ $\color{#D4B7C4}{\textsf{. ˖  ꒰𑁬}}$<img src="https://uploadkon.ir/uploads/
 <img src="https://uploadkon.ir/uploads/7de227_26Untitled50-20260827151527.png" width="250">
 </p>
 <p align="center">
-$\color{#A5BDC9}{\textsf{!! wip !!}}$
+  hiii im marcie and this is my alt acc — my links are all in my main — uhm, im a shy lurker but i appreciate cuddles! i don't usually approach ppl and don't accept random friendreqs— id like to interact but pls be patient w me ♡
+$\color{#A5BDC9}{\textsf{wip}}$
 </p>
 
 <p align="center">
