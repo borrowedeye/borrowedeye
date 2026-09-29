@@ -21,5 +21,5 @@ $\color{#A5BDC9}{\textsf{wip}}$
 </p>
 
 <p align="center">
-<img src="https://uploadkon.ir/uploads/5a1527_26Untitled81-20260827201128.png" width="350">
+<img src="https://uploadkon.ir/uploads/bfef29_26Untitled81-20260827201128.png" width="350">
 </p>
